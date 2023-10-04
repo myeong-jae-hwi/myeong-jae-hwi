@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     <a href="https://re-hwi.tistory.com/">
         <img src="https://img.shields.io/badge/Tistory-FF5D4E?style=for-the-badge&logo=Tistory&logoColor=FFFFFF"/>
     </a>
-    <a href="">
+    <a href="mailto:audwognl@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=Gmail&logoColor=FFFFFF"> 
     </a>
 </p>
