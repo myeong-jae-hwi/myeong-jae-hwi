@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     <a href="">
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=KakaoTalk&logoColor=000000"/>
     </a>
-    <a href="https://re-hwi.tistory.com/"target="_blank">
+    <a href="https://re-hwi.tistory.com/" target="_blank">
         <img src="https://img.shields.io/badge/Tistory-FF5D4E?style=for-the-badge&logo=Tistory&logoColor=FFFFFF"/>
     </a>
     <a href="">
