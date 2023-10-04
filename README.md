@@ -12,17 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=00AFFF&text=Hi%20there%20I'm%20Jaehwi😀&animation=twinkling&height=200&fontSize=30&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Hi%20there%20I'm%20Jaehwi😀&animation=twinkling&height=200&fontSize=30&fontColor=FFFFFF)
 
 <h3 align="center" textcolor="#000000">📌 My Info 📌</h3>
 <p align="center">
     <a href="">
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=KakaoTalk&logoColor=000000"/>
     </a>
-    <a href="https://re-hwi.tistory.com/" target="_blank">
+    <a href="https://re-hwi.tistory.com/">
         <img src="https://img.shields.io/badge/Tistory-FF5D4E?style=for-the-badge&logo=Tistory&logoColor=FFFFFF"/>
     </a>
     <a href="">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Gmail-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
 </p>
