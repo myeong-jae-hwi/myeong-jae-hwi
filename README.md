@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&text=Hi%20there%20I'm%20Jaehwi😀&animation=twinkling&height=200&fontSize=30&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=00AFFF&text=Hi%20there%20I'm%20Jaehwi😀&animation=twinkling&height=200&fontSize=30&fontColor=FFFFFF)
 
 <h3 align="center" textcolor="#000000">📌 My Info 📌</h3>
 <p align="center">
