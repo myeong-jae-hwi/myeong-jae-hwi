@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Hi%20there%20I'm%20Jaehwi😀&animation=twinkling&height=200&fontSize=30&fontColor=FFFFFF)
 
-<h3 align="center" textcolor="#000000">📌 My Info 📌</h3>
+<h3 align="center">📌 My Info 📌</h3>
 <p align="center">
     <a href="">
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=KakaoTalk&logoColor=000000"/>
