@@ -13,3 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=00AFFF&text=Hi%20there%20I'm%20Jaehwi😀&animation=twinkling&height=100&fontSize=30&fontColor=00AFFF&fontAlign=22&fontAlignY=85)
+
+
+<div style="display:flex; flex-direction:row;">
+    <a href="">
+        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=KakaoTalk&logoColor=000000"/>
+    </a><br>
+    <a href="">
+        <img src="https://img.shields.io/badge/Tistory-FF5D4E?style=for-the-badge&logo=Tistory&logoColor=FFFFFF"/>
+    </a><br>
+    <a href="">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
+</div><br>
