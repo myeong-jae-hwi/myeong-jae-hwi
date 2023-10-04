@@ -14,15 +14,17 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=00AFFF&text=Hi%20there%20I'm%20Jaehwi😀&animation=twinkling&height=100&fontSize=30&fontColor=00AFFF&fontAlign=22&fontAlignY=85)
 
-
-<div style="display:flex; flex-direction:row;">
+<h3 align="center"><b>📌 My Info 📌</b></h3>
+<p align="center">
     <a href="">
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=KakaoTalk&logoColor=000000"/>
-    </a><br>
-    <a href="">
+    </a>
+    <a href="https://re-hwi.tistory.com/">
         <img src="https://img.shields.io/badge/Tistory-FF5D4E?style=for-the-badge&logo=Tistory&logoColor=FFFFFF"/>
-    </a><br>
+    </a>
     <a href="">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
-</div><br>
+</p><br>
+
+## 
