@@ -23,6 +23,6 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Tistory-FF5D4E?style=for-the-badge&logo=Tistory&logoColor=FFFFFF"/>
     </a>
     <a href="">
-        <img src="https://img.shields.io/badge/Gmail-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=Gmail&logoColor=FFFFFF"> 
     </a>
 </p>
