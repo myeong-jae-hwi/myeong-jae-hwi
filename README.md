@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">📌 My Info 📌</h3>
 <p align="center">
     <a href="">
-        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=KakaoTalk&logoColor=000000"/>
+        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=Kakao&logoColor=000000"/>
     </a>
     <a href="https://re-hwi.tistory.com/">
         <img src="https://img.shields.io/badge/Tistory-FF5D4E?style=for-the-badge&logo=Tistory&logoColor=FFFFFF"/>
