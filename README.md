@@ -26,3 +26,11 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=Gmail&logoColor=FFFFFF"> 
     </a>
 </p>
+
+<h3 align="center">📌 Languages 📌</h3>
+</br>
+<p align="center">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000000"/>
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=FFFFFF"/>
+</p>
