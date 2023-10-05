@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="center">📌 Languages 📌</h3>
-</br>
 <p align="center">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=HTML5&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFFFFF"/>
