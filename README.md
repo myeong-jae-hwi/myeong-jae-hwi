@@ -40,11 +40,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=FFFFFF"/>
 </p>
 
-<div align="center">
-    <h3>
-        <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=android&logoColor=3DDC84"/>
-            App 
-        <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=android&logoColor=3DDC84"/>
-    </h3>
-</div>
+<h3 align="center">📱 APP 📱</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/-000000?style=flat-square&logo=android&logoColor=3DDC84"/>
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+</p>
 
