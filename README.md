@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Hi%20there%20I'm%20Jaehwi😀&animation=twinkling&height=200&fontSize=30&fontColor=FFFFFF&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Hi%20there%20I'm%20Jaehwi😀&height=200&fontSize=30&fontColor=FFFFFF&fontAlign=50)
 
 <h3 align="center">📌 My Info 📌</h3>
 <p align="center">
@@ -42,3 +42,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 </p>
 
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=e2e4e3&height=130)
