@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="center">
-    <a href="https://github.com/myeong-jae-hwi/Android">
+    <a href="https://github.com/myeong-jae-hwi/Android" font-color="white">
         📱 APP 📱
     </a>
 </h3>
