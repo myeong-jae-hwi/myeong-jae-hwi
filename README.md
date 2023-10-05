@@ -42,4 +42,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 </p>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=e2e4e3&height=130)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&height=130)
