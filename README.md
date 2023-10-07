@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20there%20I'm%20Jaehwi😀&height=200&fontSize=30&fontColor=FFFFFF&fontAlign=50)<br>
-<img width="15%" src="https://github.com/myeong-jae-hwi/myeong-jae-hwi/assets/72872676/57d5b654-3149-409e-85c8-44e9bf65a31c"/>
 
 <h3 align="center">📌 My Info 📌</h3>
 <p align="center">
