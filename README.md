@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=myeong-jae-hwi&show_icons=true&theme=dracula" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=myeong-jae-hwi&show_icons=true&theme=react" alt="GitHub Stats">
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=130)
