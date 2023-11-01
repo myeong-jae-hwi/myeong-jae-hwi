@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 </p>
 
-<h3 align="center"> 📱 APPLICATION 📱 </h3>
+<h3 align="center"> 📱 Application  📱 </h3>
 <p align="center">
 <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=ffffff"/>
 </p>
