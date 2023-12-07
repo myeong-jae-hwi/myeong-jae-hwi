@@ -27,7 +27,9 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-<h3 align="center">🔥 Language 🔥</h3>
+<h6 align="center"> <p align="bottom"><img width = "5%" src = "https://github.com/myeong-jae-hwi/myeong-jae-hwi/assets/72872676/1ddc4555-6a53-497b-ad04-34845086b976"/></p></h6>
+<h3 align="center">🔥 Language 🔥
+</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=HTML5&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFFFFF"/>
