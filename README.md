@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 </p>
 
-<h3 align="center">Application<img width = 3% src = "https://github.com/myeong-jae-hwi/myeong-jae-hwi/assets/72872676/62d9d0c5-e22d-4247-a1e6-8f8a25cad1bf"/></h3>
+<h3 align="center">Application <img width = 2% src = "https://github.com/myeong-jae-hwi/myeong-jae-hwi/assets/72872676/e4f4389b-b4db-4230-97f4-e9461205d674"/></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=ffffff"/>
 </p>
