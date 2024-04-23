@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=ffffff"/>
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Jaehwi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=myeong-jae-hwi&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Myeong-jae-hwi&show_icons=true&theme=react" alt="GitHub Stats">
