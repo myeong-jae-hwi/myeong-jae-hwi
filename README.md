@@ -48,7 +48,3 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=Myeong-jae-hwi&show_icons=true&theme=react" alt="GitHub Stats">
 
 [![Jaehwi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=myeong-jae-hwi&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=130)
