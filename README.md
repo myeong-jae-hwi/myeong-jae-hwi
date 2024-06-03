@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <p  align="center">
     <img align="center" src="https://github.com/myeong-jae-hwi/myeong-jae-hwi/assets/72872676/4303f0a3-95e6-46ba-a6ec-9d873c31f6f2" width="550" height="150"/>
 </p>
@@ -31,8 +32,12 @@ Here are some ideas to get you started:
 
 <h3 align="center">Language<img width = "3%" src = "https://github.com/myeong-jae-hwi/myeong-jae-hwi/assets/72872676/1ddc4555-6a53-497b-ad04-34845086b976"/>  
 </h3>
+<p>
+    
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
+
+</p>
 <p align="center">
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript)](https://skillicons.dev)
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=FFFFFF"/><br>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -46,3 +51,4 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=Myeong-jae-hwi&show_icons=true&theme=react" alt="GitHub Stats">
 
 [![Jaehwi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=myeong-jae-hwi&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
