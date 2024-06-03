@@ -17,7 +17,7 @@ Here are some ideas to get you started:
     <img align="center" src="https://github.com/myeong-jae-hwi/myeong-jae-hwi/assets/72872676/4303f0a3-95e6-46ba-a6ec-9d873c31f6f2" width="550" height="150"/>
 </p>
 
-<h3>📌 My Info 📌</h3>
+<h2>📌 My Info 📌</h2>
 <a href="">
     <img src="https://img.shields.io/badge/Kakao-FFCD00?style=for-the-badge&logo=KakaoTalk&logoColor=000000"/>
 </a>
@@ -28,8 +28,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=Gmail&logoColor=FFFFFF"> 
 </a>
 
-<h3>Language<img width = "3%" src = "https://github.com/myeong-jae-hwi/myeong-jae-hwi/assets/72872676/1ddc4555-6a53-497b-ad04-34845086b976"/>  
-</h3>
+<h2>Language<img width = "3%" src = "https://github.com/myeong-jae-hwi/myeong-jae-hwi/assets/72872676/1ddc4555-6a53-497b-ad04-34845086b976"/>  
+</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,python)](https://skillicons.dev)
 
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 </p> -->
 
-<h3> Tool🔧 </h3>
+<h2> Tool 🔧 </h2>
 
 [![My Skills](https://skillicons.dev/icons?i=github,vscode,npm,androidstudio,firebase,bootstrap,codepen)](https://skillicons.dev)
 
