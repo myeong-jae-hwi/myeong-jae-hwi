@@ -18,7 +18,7 @@ const parser = new Parser({
   const feed = await parser.parseURL("https://re-hwi.tistory.com/rss"); 
 
   // 최신 5개의 글의 제목과 링크를 추가할 텍스트 생성
-  let latestPosts = "### Latest Blog Posts\n\n";
+  let latestPosts = "### 티스토리 블로그 최근 글\n\n";
   for (let i = 0; i < 5 && i < feed.items.length; i++) {
     const { title, link } = feed.items[i];
     latestPosts += `- [${title}](${link})\n`;
