@@ -32,9 +32,7 @@ Here are some ideas to get you started:
 <h3 align="center">Language<img width = "3%" src = "https://github.com/myeong-jae-hwi/myeong-jae-hwi/assets/72872676/1ddc4555-6a53-497b-ad04-34845086b976"/>  
 </h3>
 <p align="center">
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=HTML5&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000000"/><br>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript)](https://skillicons.dev)
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=FFFFFF"/><br>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
