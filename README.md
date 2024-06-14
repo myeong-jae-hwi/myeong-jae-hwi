@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p  align="center">
+<p align="center">
     <img align="center" src="https://github.com/myeong-jae-hwi/myeong-jae-hwi/assets/72872676/4303f0a3-95e6-46ba-a6ec-9d873c31f6f2" width="550" height="150"/>
 </p>
 
