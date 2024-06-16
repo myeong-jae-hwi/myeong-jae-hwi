@@ -42,3 +42,10 @@ Here are some ideas to get you started:
 <h2> Tool 🔧 </h2>
 
 [![My Skills](https://skillicons.dev/icons?i=github,vscode,npm,androidstudio,firebase,bootstrap,codepen)](https://skillicons.dev)
+### 티스토리 블로그 최근 글 ✏️
+
+- [v-if와 v-for](https://re-hwi.tistory.com/138)
+- [computed와 watch](https://re-hwi.tistory.com/137)
+- [Vue를 이용한 DOM 상호작용](https://re-hwi.tistory.com/135)
+- [Vue 시작하기](https://re-hwi.tistory.com/134)
+- [캡스톤 디자인 - 분석 및 설계](https://re-hwi.tistory.com/133)
