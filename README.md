@@ -42,11 +42,3 @@ Here are some ideas to get you started:
 <h2> Tool 🔧 </h2>
 
 [![My Skills](https://skillicons.dev/icons?i=github,vscode,npm,androidstudio,firebase,bootstrap,codepen)](https://skillicons.dev)
-
-### 티스토리 블로그 최근 글 ✏️
-
-- [Vue를 이용한 DOM 상호작용](https://re-hwi.tistory.com/135)
-- [Vue 시작하기](https://re-hwi.tistory.com/134)
-- [캡스톤 디자인 - 분석 및 설계](https://re-hwi.tistory.com/133)
-- [캡스톤 디자인 - 주제선정](https://re-hwi.tistory.com/132)
-- [2024 1회 정보처리기사 필기 합격 후기](https://re-hwi.tistory.com/131)
