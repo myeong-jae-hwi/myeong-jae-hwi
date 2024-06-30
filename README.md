@@ -273,3 +273,10 @@ Here are some ideas to get you started:
 - [computed와 watch](https://re-hwi.tistory.com/137)
 - [Vue를 이용한 DOM 상호작용](https://re-hwi.tistory.com/135)
 - [Vue 시작하기](https://re-hwi.tistory.com/134)
+### 티스토리 블로그 최근 글 ✏️
+
+- [Vue.js를 이용한 '몬스터 슬레이어' 게임 만들기 후기](https://re-hwi.tistory.com/139)
+- [v-if와 v-for](https://re-hwi.tistory.com/138)
+- [computed와 watch](https://re-hwi.tistory.com/137)
+- [Vue를 이용한 DOM 상호작용](https://re-hwi.tistory.com/135)
+- [Vue 시작하기](https://re-hwi.tistory.com/134)
