@@ -20,15 +20,14 @@ const parser = new Parser({
   // 최신 5개의 글의 제목과 링크를 추가할 텍스트 생성
   let latestPosts = "### 티스토리 블로그 최근 글 ✏️\n\n";
   for (let i = 0; i < 5 && i < feed.items.length; i++) {
-    let { title, link } = feed.items[i];
-    link = link.startsWith('http://') ? 'https://' + link.slice(7) : link; // 추가
+    const { title, link } = feed.items[i];
     latestPosts += `- [${title}](${link})\n`;
   }
 
   // 기존 README.md에 최신 블로그 포스트 추가
   const newReadmeContent = readmeContent.includes(" ### 티스토리 블로그 최근 글 ✏️")
     ? readmeContent.replace(
-        /### Latest Blog Posts[\s\S]*?(?=\n\n## |\n$)/,
+        /###티스토리 블로그 최근 글 ✏️[\s\S]*?(?=\n\n## |\n$)/,
         latestPosts
       )
     : readmeContent + latestPosts;
