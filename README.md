@@ -44,9 +44,9 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=github,vscode,npm,androidstudio,firebase,bootstrap,codepen)](https://skillicons.dev)
 ### 티스토리 블로그 최근 글 ✏️
 
+- [정보처리기사 실기 (1) 소프트웨어 구조 요약](https://re-hwi.tistory.com/140)
 - [Vue.js를 이용한 '몬스터 슬레이어' 게임 만들기 후기](https://re-hwi.tistory.com/139)
 - [v-if와 v-for](https://re-hwi.tistory.com/138)
 - [computed와 watch](https://re-hwi.tistory.com/137)
 - [Vue를 이용한 DOM 상호작용](https://re-hwi.tistory.com/135)
-- [Vue 시작하기](https://re-hwi.tistory.com/134)
 
