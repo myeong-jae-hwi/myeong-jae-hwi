@@ -13,22 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Stack  📌
 <p align="center">
-    <img align="center" src="https://github.com/myeong-jae-hwi/myeong-jae-hwi/assets/72872676/4303f0a3-95e6-46ba-a6ec-9d873c31f6f2" width="600" height="150"/>
+    
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,python)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,npm,androidstudio,firebase,bootstrap,codepen)](https://skillicons.dev)
 </p>
 
-### 📌 My Info  📌
-<a href="">
-    <img src="https://img.shields.io/badge/Kakao-FFCD00?style=for-the-badge&logo=KakaoTalk&logoColor=000000"/>
-</a>
-<a href="https://re-hwi.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-FF5D4E?style=for-the-badge&logo=Tistory&logoColor=FFFFFF"/>
-</a>
-<a href="mailto:audwognl@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=Gmail&logoColor=FFFFFF"> 
-</a>
-
-### Language<img width = "4%" src = "https://github.com/myeong-jae-hwi/myeong-jae-hwi/assets/72872676/1ddc4555-6a53-497b-ad04-34845086b976"/>  
+### about<img width = "4%" src = "https://github.com/myeong-jae-hwi/myeong-jae-hwi/assets/72872676/1ddc4555-6a53-497b-ad04-34845086b976"/>  
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=myeong-jae-hwi&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=61DAFB&count_private=true" width="48%" />
