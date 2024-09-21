@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/myeong-jae-hwi/github-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myeong-jae-hwi&layout=compact&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&theme=material-palenight&title_color=fff" width="36%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myeong-jae-hwi&layout=compact&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&hide=java&theme=material-palenight&title_color=fff" width="36%" />
 </a>
 
 <!-- <p align="center">
