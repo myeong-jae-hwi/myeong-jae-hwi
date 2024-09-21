@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=github,vscode,npm,androidstudio,firebase,bootstrap,codepen)](https://skillicons.dev)
 </p>
 
-### about<img width = "4%" src = "https://github.com/myeong-jae-hwi/myeong-jae-hwi/assets/72872676/1ddc4555-6a53-497b-ad04-34845086b976"/>  
+### About<img width = "4%" src = "https://github.com/myeong-jae-hwi/myeong-jae-hwi/assets/72872676/1ddc4555-6a53-497b-ad04-34845086b976"/>  
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=myeong-jae-hwi&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=61DAFB&count_private=true" width="48%" />
