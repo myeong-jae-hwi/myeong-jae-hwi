@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 </p> -->
 ### 티스토리 블로그 최근 글 ✏️
 
+- [[SCSS] mixin 사용법](https://re-hwi.tistory.com/146)
 - [[SCSS] 주석, 변수, 보간법](https://re-hwi.tistory.com/145)
 - [[PWA] FCM 모바일 알림 구현하기 (Vue.js)](https://re-hwi.tistory.com/144)
 - [npm audit fix --force 후 에러](https://re-hwi.tistory.com/143)
 - [사이드 프로젝트 후기 - 룸메이트 구하기 어플리케이션 : 그리핀](https://re-hwi.tistory.com/142)
-- [2024 정보처리기사 실기 (2) 데이터베이스 구축](https://re-hwi.tistory.com/141)
 
