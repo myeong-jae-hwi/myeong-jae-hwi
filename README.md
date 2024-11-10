@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 </p> -->
 ### 티스토리 블로그 최근 글 ✏️
 
+- [[JavaScript] 음악 스펙트럼 플레이어 만들기](https://re-hwi.tistory.com/157)
 - [[JavaScript] 가비지 컬렉션](https://re-hwi.tistory.com/156)
 - [[JavaScript] 얕은복사 vs 깊은복사 feat. 참조복사](https://re-hwi.tistory.com/155)
 - [[JavaScript] 구조분해 할당](https://re-hwi.tistory.com/154)
 - [[JavaScript] for in과 for of](https://re-hwi.tistory.com/153)
-- [[TypeScript] 추상클래스란 무엇인가 (임시)](https://re-hwi.tistory.com/152)
 
