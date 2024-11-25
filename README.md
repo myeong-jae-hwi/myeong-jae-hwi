@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=FFFFFF"/><br>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 </p> -->
-### 티스토리 블로그 최근 글 ✏️
+#### [Tistory] Recent Posts ✏️
 
 - [프론트엔드 성능 최적화 가이드 (2)](https://re-hwi.tistory.com/163)
 - [프론트엔드 성능 최적화 가이드 후기 (1)](https://re-hwi.tistory.com/162)
