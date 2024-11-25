@@ -42,3 +42,4 @@ Here are some ideas to get you started:
 - [[JavaScript] 음악 플레이리스트 프로그래스바 제작 (3)](https://re-hwi.tistory.com/161)
 - [[JavaScript] 타입별 메서드와 제너레이트](https://re-hwi.tistory.com/160)
 - [[JavaScript] 클로저 (closure)란 무엇일까](https://re-hwi.tistory.com/159)
+
