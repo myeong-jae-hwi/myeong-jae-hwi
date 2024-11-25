@@ -23,16 +23,11 @@ Here are some ideas to get you started:
 
 ### About<img width = "4%" src = "https://github.com/myeong-jae-hwi/myeong-jae-hwi/assets/72872676/1ddc4555-6a53-497b-ad04-34845086b976"/>  
 
-![overview](https://github.com/user-attachments/assets/9702e53e-7649-497c-a00e-09227deb3253)
+<p align="center">
+    
+![overview](https://github.com/user-attachments/assets/9702e53e-7649-497c-a00e-09227deb3253) ![languages](https://github.com/user-attachments/assets/91163e66-5167-46fa-8a88-2de735a38efc)
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=myeong-jae-hwi&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=61DAFB&count_private=true" width="48%" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/myeong-jae-hwi/github-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myeong-jae-hwi&layout=compact&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&hide=java&theme=material-palenight&title_color=fff" width="36%" />
-</a>
+</p>
 
 <!-- <p align="center">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
