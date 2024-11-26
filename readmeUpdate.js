@@ -25,9 +25,9 @@ const parser = new Parser({
   }
 
   // 기존 README.md에 최신 블로그 포스트 추가
-  const newReadmeContent = readmeContent.includes("### 티스토리 블로그 최근 글 ✏️")
+  const newReadmeContent = readmeContent.includes("#### [Tistory] Recent posts ✏️")
     ? readmeContent.replace(
-        /### 티스토리 블로그 최근 글 ✏️[\s\S]*?(?=\n\n## |\n$)/,
+        /#### [Tistory] Recent posts ✏️[\s\S]*?(?=\n\n## |\n$)/,
         latestPosts
       )
     : readmeContent + latestPosts;
