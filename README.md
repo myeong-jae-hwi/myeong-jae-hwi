@@ -35,18 +35,3 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 </p> -->
 
-
-### [Tistory] Recent posts ✏️
-
-- [프론트엔드 성능 최적화 가이드 (2)](https://re-hwi.tistory.com/163)
-- [프론트엔드 성능 최적화 가이드 후기 (1)](https://re-hwi.tistory.com/162)
-- [[JavaScript] 음악 플레이리스트 프로그래스바 제작 (3)](https://re-hwi.tistory.com/161)
-- [[JavaScript] 타입별 메서드와 제너레이트](https://re-hwi.tistory.com/160)
-- [[JavaScript] 클로저 (closure)란 무엇일까](https://re-hwi.tistory.com/159)
-### [Tistory] Recent posts ✏️
-
-- [프론트엔드 성능 최적화 가이드 (2)](https://re-hwi.tistory.com/163)
-- [프론트엔드 성능 최적화 가이드 후기 (1)](https://re-hwi.tistory.com/162)
-- [[JavaScript] 음악 플레이리스트 프로그래스바 제작 (3)](https://re-hwi.tistory.com/161)
-- [[JavaScript] 타입별 메서드와 제너레이트](https://re-hwi.tistory.com/160)
-- [[JavaScript] 클로저 (closure)란 무엇일까](https://re-hwi.tistory.com/159)
