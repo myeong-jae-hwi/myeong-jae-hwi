@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 
 <p align="center">
     
-![overview](https://github.com/user-attachments/assets/9702e53e-7649-497c-a00e-09227deb3253) ![languages](https://github.com/user-attachments/assets/91163e66-5167-46fa-8a88-2de735a38efc)
+![overview](https://github.com/user-attachments/assets/37086b05-2298-43b7-b42a-535c0cded3f0) ![languages](https://github.com/user-attachments/assets/a1a582f3-901b-4964-9ae5-6409cc4a2f01)
+
 
 </p>
 
