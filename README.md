@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Stack  📌
 <p align="center">
     
-[![My Skills](https://skillicons.dev/icons?i=git,html,css,js,ts,react,vue,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,js,ts,react,vue,tailwind,next,python)](https://skillicons.dev)
 </p>
 
 ### About<img width = "4%" src = "https://github.com/myeong-jae-hwi/myeong-jae-hwi/assets/72872676/1ddc4555-6a53-497b-ad04-34845086b976"/>  
