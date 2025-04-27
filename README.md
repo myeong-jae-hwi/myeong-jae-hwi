@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there! I'm Jaehwi👋
-<br> 
+<br>
 
 ### Stack  📌
 <p align="center">
