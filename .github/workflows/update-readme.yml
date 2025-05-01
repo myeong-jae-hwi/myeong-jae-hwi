@@ -2,17 +2,18 @@ name: Update README
 
 on:
   schedule:
-    - cron: "0 */1 * * *"
+    - cron: "0 */1 * * *"  # 매 1시간마다 실행
   push:
     branches:
       - main
 
 permissions:
-  contents: write
+  contents: write  # GITHUB_TOKEN이 write 권한을 갖게 함
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -28,16 +29,17 @@ jobs:
       - name: Run update script
         run: npm start
 
-      - name: Commit README
+      - name: Set up SSH for GitHub
         run: |
-          git config --local user.name 'Myeong Jae Hwi'
-          git config --local user.email 'audwognl@gmail.com'
-          if [ -n "$(git status --porcelain)" ]; then
-            git add README.md
-            git commit -m 'Update README with latest blog posts'
-            git push
-          else
-            echo "No changes to commit"
-          fi
-        env:
-          GH_PERSONAL_TOKEN: ${{ secrets.GH_PERSONAL_TOKEN }}
+          mkdir -p ~/.ssh
+          echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan github.com >> ~/.ssh/known_hosts
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "Update README with latest blog posts"
+          git push origin main
