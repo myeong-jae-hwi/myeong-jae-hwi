@@ -37,3 +37,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=FFFFFF"/><br>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 </p> -->
+#### [Tistory] Recent posts ✏️
+
+- [Next.js에서 useParams 사용법과 클라이언트 컴포넌트](https://re-hwi.tistory.com/171)
+- [[알고리즘] 2차원 배열 회전](https://re-hwi.tistory.com/170)
+- [[Project] tAIro 프로젝트 회고](https://re-hwi.tistory.com/169)
+- [[PWA] React + Vite 프로젝트 PWA 적용](https://re-hwi.tistory.com/168)
+- [[상태관리] Zustand란?](https://re-hwi.tistory.com/167)
